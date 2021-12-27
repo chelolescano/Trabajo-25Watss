@@ -82,6 +82,8 @@ h1{
     width: 144px;
     height: 48px;
     border-radius: 25px;
-    border: none
-   
- }
+    border: none;
+    color:#FFFFFF;
+    font: normal normal medium 16px/21px Roboto;
+    text-align: center;
+ } 
